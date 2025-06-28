@@ -2,10 +2,10 @@ baseURL = "https://sangatberguna.pages.dev"
 languageCode = "en-us"
 title = "Tutorial Sangad Berguna"
 theme = "papermod"
-enableRobotsTXT = true
+#enableRobotsTXT = true
 
-[outputs]
-	home = ["HTML", "RSS", "SITEMAP", "ROBOTS"]
+#[outputs]
+       #home = ["HTML", "RSS", "SITEMAP", "ROBOTS"]
 [menu]
 	[[menu.main]]
 	identifier = "home"

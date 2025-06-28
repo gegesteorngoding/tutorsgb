@@ -2,7 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sangatberguna.pages.dev/</loc>
+    <lastmod>2025-06-28T11:24:13+07:00</lastmod>
+  </url><url>
+    <loc>https://sangatberguna.pages.dev/posts/hugo/</loc>
+    <lastmod>2025-06-28T11:24:13+07:00</lastmod>
+  </url><url>
     <loc>https://sangatberguna.pages.dev/posts/</loc>
     <lastmod>2025-06-28T11:24:13+07:00</lastmod>
+  </url><url>
+    <loc>https://sangatberguna.pages.dev/posts/hello/</loc>
+    <lastmod>2025-06-28T11:04:23+07:00</lastmod>
+  </url><url>
+    <loc>https://sangatberguna.pages.dev/posts/lirikbapakmulyono/</loc>
+    <lastmod>2025-06-28T05:37:09+07:00</lastmod>
+  </url><url>
+    <loc>https://sangatberguna.pages.dev/categories/</loc>
+  </url><url>
+    <loc>https://sangatberguna.pages.dev/tags/</loc>
   </url>
 </urlset>
