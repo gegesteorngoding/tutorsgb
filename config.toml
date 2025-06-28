@@ -1,0 +1,23 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "Tutorial Sangad Berguna"
+theme = "papermod"
+
+[menu]
+	[[menu.main]]
+	identifier = "home"
+	name = "Home"
+	url = "/"
+	weight = 0
+[params.homeInfoParams]
+	Title = "Halo para manusia diluar sana!"
+	Content = "Disini gw bakal share semua project, pengetahuan, dan kegabutan gw. Have Fun >//<"
+[markup.goldmark.renderer]
+	unsafe = true
+
+[params]
+	author = "Fatih Epep"
+
+[[params.socialIcons]]	
+	name = "github"
+	url = "https://github.com/gegesteorngoding"
