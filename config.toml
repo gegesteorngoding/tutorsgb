@@ -2,7 +2,7 @@ baseURL = "https://sangatberguna.pages.dev"
 languageCode = "en-us"
 title = "Tutorial Sangad Berguna"
 theme = "papermod"
-
+enableRobotsTXT = true
 [menu]
 	[[menu.main]]
 	identifier = "home"
