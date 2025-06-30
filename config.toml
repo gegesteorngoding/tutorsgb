@@ -4,8 +4,9 @@ title = "Tutorial Sangad Berguna"
 theme = "papermod"
 #enableRobotsTXT = true
 
+
 #[outputs]
-       #home = ["HTML", "RSS", "SITEMAP", "ROBOTS"]
+	#home = ["HTML", "RSS", "SITEMAP", "ROBOTS"]
 [menu]
 	[[menu.main]]
 	identifier = "home"
@@ -20,7 +21,10 @@ theme = "papermod"
 
 [params]
 	author = "Fatih Epep"
+ 	description = "Blog tentang Arduino, Raspberry Pi, dan project kreatif lainnya."
 
 [[params.socialIcons]]	
 	name = "github"
 	url = "https://github.com/gegesteorngoding"
+
+
