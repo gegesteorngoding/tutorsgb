@@ -2,41 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Tutorial Sangad Berguna</title>
-    <link>https://sangatberguna.pages.dev/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Tutorial Sangad Berguna</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jun 2025 11:24:13 +0700</lastBuildDate>
-    <atom:link href="https://sangatberguna.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo? Is That Spanish Man?</title>
-      <link>https://sangatberguna.pages.dev/posts/hugo/</link>
+      <link>http://localhost:1313/posts/hugo/</link>
       <pubDate>Sat, 28 Jun 2025 11:24:13 +0700</pubDate>
-      <guid>https://sangatberguna.pages.dev/posts/hugo/</guid>
+      <guid>http://localhost:1313/posts/hugo/</guid>
       <description>&lt;p&gt;Hugo&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Bla bla bla, nanti aja&lt;/p&gt;</description>
     </item>
     <item>
       <title>Halo yang disana !</title>
-      <link>https://sangatberguna.pages.dev/posts/hello/</link>
+      <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Sat, 28 Jun 2025 11:04:23 +0700</pubDate>
-      <guid>https://sangatberguna.pages.dev/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/hello/</guid>
       <description>&lt;p&gt;Halo!.&lt;/p&gt;
 &lt;p&gt;Disini, saya akan mengupload blog saya tentang project &lt;i&gt;Arduino, &lt;i&gt;Raspberry Pi, dan yang lainnya!&lt;/p&gt;
 &lt;p&gt;Saya duduk di bangku SMP saat blog ini ditulis. Saya hanya seorang murid yang entah mengapa sangat tertarik oleh dunia IT.&lt;/p&gt;
 &lt;p&gt;Saya berharap dengan adanya blog ini saya bisa mengekspresikan ide saya tentang ketertarikan saya dalam bidang IT :D&lt;/p&gt;
 &lt;p&gt;Website ini dibuat oleh &lt;i&gt;Hugo&lt;/i&gt; dan ini sangat keren &amp;gt;//&amp;lt;&lt;/p&gt;
 &lt;p&gt;Terima kasih. Dan sekian :D&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Lirik Lagu Bapak Mulyono Raja Tipu-Tipu</title>
-      <link>https://sangatberguna.pages.dev/posts/lirikbapakmulyono/</link>
-      <pubDate>Sat, 28 Jun 2025 05:37:09 +0700</pubDate>
-      <guid>https://sangatberguna.pages.dev/posts/lirikbapakmulyono/</guid>
-      <description>&lt;p&gt;Bapak Mulyono, raja tipu-tipu.&lt;br&gt;
-Mobil esemka hanyalah salah satu.&lt;br&gt;
-Banyak fakta banyak bukti ditemui.&lt;br&gt;
-Mulyono serakahnya setengah mati.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
