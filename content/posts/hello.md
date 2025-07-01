@@ -1,5 +1,6 @@
 ---
 title: "Halo yang disana !"
+description: "Perkenalan tentang website ini dan diri saya :D"
 date: 2025-06-28T11:04:23+07:00
 draft: false
 cover:

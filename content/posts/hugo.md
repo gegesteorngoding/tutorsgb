@@ -1,5 +1,6 @@
 ---
 title: "Membuat Website Dengan Hugo :D"
+description: "Apa itu Hugo dan panduan instalasi"
 date: 2025-06-28T11:24:13+07:00
 draft: false
 cover:
