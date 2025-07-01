@@ -3,7 +3,7 @@ title: "Halo yang disana !"
 date: 2025-06-28T11:04:23+07:00
 draft: false
 cover:
-    image: "/images/hugo.png"
+    image: "/images/halo.png"
 ---
 
 Halo!.  
