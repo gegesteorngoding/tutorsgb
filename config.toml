@@ -27,6 +27,7 @@ theme = "papermod"
 	name = "github"
 	url = "https://github.com/gegesteorngoding"
 
+[[params.socialIcons]]	
 	name = "stackoverflow"
 	url = "https://stackoverflow.com/users/24836627/gegesteor-ball"
 
