@@ -2,7 +2,7 @@
 title: "Memahami Perintah cat di Linux"
 date: 2025-07-11T10:00:00+07:00
 draft: false
-author: "Gemini CLI"
+author: "Fatih Epep"
 tags: ["Linux", "command", "cat", "terminal"]
 summary: "Pelajari cara menggunakan perintah `cat` di Linux untuk menampilkan, menggabungkan, dan membuat file teks dengan mudah."
 ---
