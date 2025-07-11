@@ -32,6 +32,13 @@ theme = "papermod"
 	name = "Home"
 	url = "/"
 	weight = 0
+
+        [[menu.main]]
+        identifier = "tags"
+        name = "Tags"
+        url = "/tags"
+        weight = 0
+
 [params.homeInfoParams]
 	Title = "Halo para manusia diluar sana!"
 	Content = "Disini gw bakal share semua project, pengetahuan, dan kegabutan gw. Have Fun >//<"

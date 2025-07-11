@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Tutorial Sangad Berguna</title>
+    <title>Posts on NgadGuna Blog</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Tutorial Sangad Berguna</description>
+    <description>Recent content in Posts on NgadGuna Blog</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 11:24:13 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 10:00:00 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo? Is That Spanish Man?</title>
+      <title>Memahami Perintah cat di Linux</title>
+      <link>http://localhost:1313/posts/memahami-perintah-cat-di-linux/</link>
+      <pubDate>Fri, 11 Jul 2025 10:00:00 +0700</pubDate>
+      <guid>http://localhost:1313/posts/memahami-perintah-cat-di-linux/</guid>
+      <description>Pelajari cara menggunakan perintah &lt;code&gt;cat&lt;/code&gt; di Linux untuk menampilkan, menggabungkan, dan membuat file teks dengan mudah.</description>
+    </item>
+    <item>
+      <title>Membuat Website Dengan Hugo :D</title>
       <link>http://localhost:1313/posts/hugo/</link>
       <pubDate>Sat, 28 Jun 2025 11:24:13 +0700</pubDate>
       <guid>http://localhost:1313/posts/hugo/</guid>
-      <description>&lt;p&gt;Hugo&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Bla bla bla, nanti aja&lt;/p&gt;</description>
+      <description>Apa itu Hugo dan panduan instalasi</description>
     </item>
     <item>
       <title>Halo yang disana !</title>
       <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Sat, 28 Jun 2025 11:04:23 +0700</pubDate>
       <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;p&gt;Halo!.&lt;/p&gt;
-&lt;p&gt;Disini, saya akan mengupload blog saya tentang project &lt;i&gt;Arduino, &lt;i&gt;Raspberry Pi, dan yang lainnya!&lt;/p&gt;
-&lt;p&gt;Saya duduk di bangku SMP saat blog ini ditulis. Saya hanya seorang murid yang entah mengapa sangat tertarik oleh dunia IT.&lt;/p&gt;
-&lt;p&gt;Saya berharap dengan adanya blog ini saya bisa mengekspresikan ide saya tentang ketertarikan saya dalam bidang IT :D&lt;/p&gt;
-&lt;p&gt;Website ini dibuat oleh &lt;i&gt;Hugo&lt;/i&gt; dan ini sangat keren &amp;gt;//&amp;lt;&lt;/p&gt;
-&lt;p&gt;Terima kasih. Dan sekian :D&lt;/p&gt;</description>
+      <description>Perkenalan tentang website ini dan diri saya :D</description>
     </item>
   </channel>
 </rss>
