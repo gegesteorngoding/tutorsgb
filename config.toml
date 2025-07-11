@@ -6,7 +6,7 @@ theme = "papermod"
 
 
 [outputs]
-  home = ["HTML", "RSS", "SITEMAP", "ATOM", "JSON"]
+  home = ["HTML", "RSS", "SITEMAP", "JSON"]
 
 [params]
   enableSearch = true
