@@ -10,6 +10,18 @@ theme = "papermod"
 
 [params]
   enableSearch = true
+  author = "Fatih Epep"
+  description = "Blog tentang Arduino, Raspberry Pi, dan project kreatif lainnya."
+  ShowImageInList = true
+  ShowImageInSummary = true
+
+[[params.socialIcons]]	
+	name = "github"
+	url = "https://github.com/gegesteorngoding"
+
+[[params.socialIcons]]	
+	name = "stackoverflow"
+	url = "https://stackoverflow.com/users/24836627/gegesteor-ball"
 
 [taxonomies]
   tag = "tags"
@@ -26,19 +38,7 @@ theme = "papermod"
 [markup.goldmark.renderer]
 	unsafe = true
 
-[params]
-	author = "Fatih Epep"
- 	description = "Blog tentang Arduino, Raspberry Pi, dan project kreatif lainnya."
-	ShowImageInList = true
-	ShowImageInSummary = true
 
-[[params.socialIcons]]	
-	name = "github"
-	url = "https://github.com/gegesteorngoding"
-
-[[params.socialIcons]]	
-	name = "stackoverflow"
-	url = "https://stackoverflow.com/users/24836627/gegesteor-ball"
 
 
 
