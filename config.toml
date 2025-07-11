@@ -5,8 +5,15 @@ theme = "papermod"
 #enableRobotsTXT = true
 
 
-#[outputs]
-	#home = ["HTML", "RSS", "SITEMAP", "ROBOTS"]
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP", "ATOM", "JSON"]
+
+[params]
+  enableSearch = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
 [menu]
 	[[menu.main]]
 	identifier = "home"
