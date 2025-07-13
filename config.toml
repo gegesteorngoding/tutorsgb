@@ -6,7 +6,11 @@ theme = "papermod"
 
 
 [outputs]
-  home = ["HTML", "RSS", "SITEMAP", "JSON"]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
 
 [params]
   enableSearch = true

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on NgadGuna Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://sangatberguna.pages.dev/posts/</link>
     <description>Recent content in Posts on NgadGuna Blog</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Jul 2025 10:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sangatberguna.pages.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memahami Perintah cat di Linux</title>
-      <link>http://localhost:1313/posts/memahami-perintah-cat-di-linux/</link>
+      <link>https://sangatberguna.pages.dev/posts/memahami-perintah-cat-di-linux/</link>
       <pubDate>Fri, 11 Jul 2025 10:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/posts/memahami-perintah-cat-di-linux/</guid>
+      <guid>https://sangatberguna.pages.dev/posts/memahami-perintah-cat-di-linux/</guid>
       <description>Pelajari cara menggunakan perintah &lt;code&gt;cat&lt;/code&gt; di Linux untuk menampilkan, menggabungkan, dan membuat file teks dengan mudah.</description>
     </item>
     <item>
       <title>Membuat Website Dengan Hugo :D</title>
-      <link>http://localhost:1313/posts/hugo/</link>
+      <link>https://sangatberguna.pages.dev/posts/hugo/</link>
       <pubDate>Sat, 28 Jun 2025 11:24:13 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hugo/</guid>
+      <guid>https://sangatberguna.pages.dev/posts/hugo/</guid>
       <description>Apa itu Hugo dan panduan instalasi</description>
     </item>
     <item>
       <title>Halo yang disana !</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <link>https://sangatberguna.pages.dev/posts/hello/</link>
       <pubDate>Sat, 28 Jun 2025 11:04:23 +0700</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>https://sangatberguna.pages.dev/posts/hello/</guid>
       <description>Perkenalan tentang website ini dan diri saya :D</description>
     </item>
   </channel>
